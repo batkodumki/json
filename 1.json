@@ -1,0 +1,38 @@
+[
+  {
+    "order_no": "3M-2025-0123",
+    "client": "ТОВ \"Смак\"",
+    "product": "Картонні коробки",
+    "quantity": "5000 шт",
+    "status": "in_production",
+    "status_text": "У виробництві",
+    "date": "25.04.2025"
+  },
+  {
+    "order_no": "3M-2025-0124",
+    "client": "ПП \"Фрукти та Ягоди\"",
+    "product": "Пластикові контейнери",
+    "quantity": "10000 шт",
+    "status": "awaiting_production",
+    "status_text": "Очікує виробництва",
+    "date": "28.04.2025"
+  },
+  {
+    "order_no": "3M-2025-0125",
+    "client": "ТОВ \"АгроПром\"",
+    "product": "Поліетиленові пакети",
+    "quantity": "15000 шт",
+    "status": "ready_to_ship",
+    "status_text": "Готово до відправлення",
+    "date": "20.04.2025"
+  },
+  {
+    "order_no": "3M-2025-0126",
+    "client": "ПАТ \"Молочна ферма\"",
+    "product": "Поліетиленові пакети",
+    "quantity": "8000 шт",
+    "status": "delayed",
+    "status_text": "Затримано",
+    "date": "16.04.2025"
+  }
+]
