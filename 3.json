@@ -1,0 +1,38 @@
+[
+  {
+    "order_no": "WH-2025-1001",
+    "client": "Склад №1",
+    "product": "Картонні коробки",
+    "quantity": "3000 шт",
+    "status": "ready_to_ship",
+    "status_text": "Готово до відправлення",
+    "date": "02.05.2025"
+  },
+  {
+    "order_no": "WH-2025-1002",
+    "client": "Склад №2",
+    "product": "Поліетиленові пакети",
+    "quantity": "5000 шт",
+    "status": "awaiting_production",
+    "status_text": "Очікує виробництва",
+    "date": "15.05.2025"
+  },
+  {
+    "order_no": "WH-2025-1003",
+    "client": "Склад №3",
+    "product": "Пластикові контейнери",
+    "quantity": "1200 шт",
+    "status": "in_production",
+    "status_text": "У виробництві",
+    "date": "20.04.2025"
+  },
+  {
+    "order_no": "WH-2025-1004",
+    "client": "Склад №1",
+    "product": "Металеві стелажі",
+    "quantity": "200 шт",
+    "status": "delayed",
+    "status_text": "Затримано",
+    "date": "18.04.2025"
+  }
+]

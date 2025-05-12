@@ -1,0 +1,38 @@
+[
+  {
+    "order_no": "PR-2025-0001",
+    "client": "Лінія виробництва №1",
+    "product": "Дерев'яні піддони",
+    "quantity": "1200 шт",
+    "status": "in_production",
+    "status_text": "У виробництві",
+    "date": "05.05.2025"
+  },
+  {
+    "order_no": "PR-2025-0002",
+    "client": "Лінія виробництва №2",
+    "product": "Металеві стелажі",
+    "quantity": "500 шт",
+    "status": "awaiting_production",
+    "status_text": "Очікує виробництва",
+    "date": "10.05.2025"
+  },
+  {
+    "order_no": "PR-2025-0003",
+    "client": "Лінія виробництва №3",
+    "product": "Пластикові контейнери",
+    "quantity": "2000 шт",
+    "status": "ready_to_ship",
+    "status_text": "Готово до відправлення",
+    "date": "01.05.2025"
+  },
+  {
+    "order_no": "PR-2025-0004",
+    "client": "Лінія виробництва №1",
+    "product": "Поліетиленові пакети",
+    "quantity": "15000 шт",
+    "status": "delayed",
+    "status_text": "Затримано",
+    "date": "12.04.2025"
+  }
+]
